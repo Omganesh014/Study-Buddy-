@@ -1,0 +1,8 @@
+{
+  "name": "FocusBuddy.AI",
+  "description": "An AI-powered focus companion that helps students stay consistent, manage time, beat procrastination, and make study sessions engaging — all through personalized recommendations, AI chat support, and gamified productivity tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

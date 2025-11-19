@@ -1,0 +1,5 @@
+/* Global overrides (kept intentionally minimal). Add your custom CSS here if needed. */
+/* This file exists to satisfy the link in index.html and remove Vite's build-time warning. */
+
+/* Example: smooth fonts */
+html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
